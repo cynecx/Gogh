@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # ====================CONFIG THIS =============================== #
-export COLOR_01="#646464"           # HOST
+export COLOR_01="#4B4B4B"           # HOST
 export COLOR_02="#F58E8E"           # SYNTAX_STRING
 export COLOR_03="#A9D3AB"           # COMMAND
 export COLOR_04="#FED37E"           # COMMAND_COLOR2
